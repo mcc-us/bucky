@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Bucky is a good boy.  
+He has all the food he needs (not wants) and gets to sleep by mid-day, mid-night, mid-evening, mid-morning...  
+He and I also like to "man-spread".  
+It's one of the things we do best. 
 
 
-[jekyll-organization]: https://github.com/jekyll
+<img src="/assets/bucky.jpg" width="50%" />
+<img src="/assets/bucky2.jpg" width="50%" />
+
+
+
+
