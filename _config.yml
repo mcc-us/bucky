@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Bucky's World
-email: mcurcio@duck.com
+#email: mcurcio@duck.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bucky has lots of kibble
 baseurl: "mcc-us.github.io/" # the subpath of your site, e.g. /blog
