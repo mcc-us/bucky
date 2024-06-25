@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Willkommen
+permalink: /willkommen/
 ---
 
 Bucky is a good boy.  
