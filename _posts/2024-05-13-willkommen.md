@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Willkommen Home!"
+title:  "Willkommen!"
 date:   2024-05-13 14:38:04 -0400
 ---
 
